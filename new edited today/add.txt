@@ -1,1 +1,7 @@
 this is added today 
+
+
+
+Let’s make some more changes. Let’s add another record in robots.txt file, for example allow the admin-ajax.php file, then stage and commit the changes.
+
+
